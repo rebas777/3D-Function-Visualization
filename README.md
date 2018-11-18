@@ -5,6 +5,7 @@
 
 ## What can this tool do ?
 - Draw literally all the 2D or 3D functions as a curve or a mesh.
+- Zoom in/out and scale the function mesh.
 - Display the value of any point on the mesh as long as you point on it.
 - Visualize the maximum/minimum/average value of the function.
 - Several kinds of shading styles are supported. 
