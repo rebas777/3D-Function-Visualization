@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/UX/Scenes/KeyboardTest.unity
+    guid: 3fb77ac039974de4c9946609c18cdae7
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Input/Scenes/TwoHandManipulationTest.unity
+    guid: 1af37bd294e891849ac89f7e7c534fef
+  - enabled: 1
+    path: Assets/_Scenes/TwoHandsTest.unity
+    guid: e4bb5720634d764449936fb1a5831253
+  - enabled: 0
+    path: Assets/_Scenes/HololensTest.unity
+    guid: 782de1afc3431914e98bd95b4bf208d9
